@@ -1,2 +1,1 @@
-# LittleLemonFTW
-Little Lemon
+# littlelemon
